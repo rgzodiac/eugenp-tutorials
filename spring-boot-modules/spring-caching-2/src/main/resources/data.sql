@@ -35,6 +35,9 @@ create table hotel
 
 
 INSERT INTO ITEM VALUES('abc','ITEM1');
+INSERT INTO ITEM VALUES('1','ONE');
+INSERT INTO ITEM VALUES('2','TWO');
+INSERT INTO ITEM VALUES('3','THREE');
 
 
 INSERT INTO city(id, name, city_centre_lattitude, city_centre_longitude)
